@@ -1,8 +1,8 @@
-There are some tip and development tools for HITB Smart car challange
+There are some tips and development tools for HITB Smart car challange
 
-The main hardware processer is raspberry pi3 B+
+We use raspberry pi3 B+ to control this car.
 
-You may need the OS mirror in https://www.raspberrypi.org/
+So you may need the OS mirror in https://www.raspberrypi.org/
 
 To interact with the expansion board you may need this tools https://github.com/WiringPi/WiringPi
 
